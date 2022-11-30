@@ -11,6 +11,7 @@
                 ]
             },
             "tag": "avi",
+            "tag1": "avi1",
             "DeletionPolicy": "Retain"
         }
     }
